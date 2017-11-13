@@ -1,7 +1,9 @@
 os:
   - linux
-  - osx
 language: node_js
+before_install:
+- sudo apt-get install build-essential libudev-dev -y
+- sudo apt-get install libbluetooth-dev
 install:
   - npm install
 script:
