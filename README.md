@@ -10,4 +10,4 @@ BLEGateway is a project that using NodeJS write on Raspberry Pi on Linux OS
 - So far, testing has been done with a TI SensorTag.
 
 ## License
-(LICENSE.md) and some of the used libraries are released under different licenses.
+[GNU General Public License v3.0 LICENSE](LICENSE) and some of the used libraries are released under different licenses.
